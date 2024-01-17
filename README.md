@@ -1,3 +1,5 @@
+Forked for compatibility
+
 # react-native-pinwheel
 
 Pinwheel SDK for React Native
